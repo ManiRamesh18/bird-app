@@ -37,7 +37,8 @@ Build and run the application using the appropriate commands for your platform.
 
   iOS :
 
-  ![Simulator Screenshot - iPhone 15 - 2024-02-18 at 12 22 20](https://github.com/ManiRamesh18/bird-app/assets/50194808/e9c17e01-63a5-48eb-930f-44a64259ece9)
+  <img width="388" alt="Screenshot 2024-02-18 at 12 33 25 PM" src="https://github.com/ManiRamesh18/bird-app/assets/50194808/dacbb5d8-03f9-4bae-827a-1231513fae02">
+
 
 4. Usage
 
