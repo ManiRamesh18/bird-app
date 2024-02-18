@@ -12,6 +12,7 @@ Follow these steps to get the KMP Bird App up and running on your device.
 1. **Clone the Repository:**
 
    git clone https://github.com/ManiRamesh18/bird-app.git
+
    cd bird-app
 
 Build and Run:
