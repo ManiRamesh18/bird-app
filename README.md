@@ -1,4 +1,3 @@
-KMP-Sample
 ## Kotlin Multiplatform Sample
 
 Android
@@ -8,14 +7,12 @@ iOS
 
 Follow these steps to get the KMP Bird App up and running on your device.
 
+
+
 1. **Clone the Repository:**
 
-   git clone https://github.com/your-username/kmp-bird-app.git
-   cd kmp-bird-app
-
-Install Dependencies:
-
-Make sure you have the required dependencies installed. This might include Kotlin Multiplatform tools, Android Studio, or any other relevant tools for your platform.
+   git clone https://github.com/ManiRamesh18/bird-app.git
+   cd bird-app
 
 Build and Run:
 
@@ -23,11 +20,15 @@ Build and run the application using the appropriate commands for your platform.
 
 ./gradlew :app:run or ./gradlew assembleDebug
 
+
+
 2. Features
 
   Grid layout with a size of 2 for an optimal viewing experience.
   Curated list of birds with images.
   Responsive design for various screen sizes.
+
+
 
 3. Screenshots
 
@@ -38,6 +39,8 @@ Build and run the application using the appropriate commands for your platform.
   iOS :
 
   <img width="388" alt="Screenshot 2024-02-18 at 12 33 25 PM" src="https://github.com/ManiRamesh18/bird-app/assets/50194808/dacbb5d8-03f9-4bae-827a-1231513fae02">
+
+
 
 
 4. Usage
